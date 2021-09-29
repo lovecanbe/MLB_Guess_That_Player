@@ -1,1 +1,1 @@
-# MLB_Guess_That_Player
+Website that allows ths user to guess a random MLB player
